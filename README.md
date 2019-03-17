@@ -3,7 +3,6 @@ File Repository for *SCUG*
 
 Welcome to the file repository for the HSC-SciPy *Health Sciences Center Scientific Python Group*.  
 
-Mission Statement:  In construction
 
 
 ## 2019 Presentations
