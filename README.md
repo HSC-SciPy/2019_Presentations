@@ -1,4 +1,4 @@
-File Repository for *SCUG*
+File Repository for *HSC-SciPy*
  ============
 
 Welcome to the file repository for the HSC-SciPy *Health Sciences Center Scientific Python Group*.  
