@@ -1,7 +1,8 @@
 File Repository for *HSC-SciPy*
  ============
 
-Welcome to the file repository for the HSC-SciPy *Health Sciences Center Scientific Python Group*.  
+Welcome to the file repository for the HSC-SciPy *Health Sciences Center Scientific Python Group*.
+We meet every second Monday of the month from noon to 1 PM in BRC 103, the conference room next to the main seminar room on the ground floor of the BRC, 975 NE 10th St., OKC. 
 
 
 
